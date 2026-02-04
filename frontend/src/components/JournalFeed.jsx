@@ -2,7 +2,6 @@ import React, { useMemo, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X } from 'lucide-react';
 import { format } from 'date-fns';
-import MarketContextCard from './MarketContextCard';
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 const JournalFeed = ({ entries, onEdit, onDelete }) => {
@@ -134,12 +133,6 @@ const JournalFeed = ({ entries, onEdit, onDelete }) => {
                             </div>
                         </div>
                     )}
-
-                    {/* Market Context */}
-                    <div className="mt-4 pt-4 border-t border-[#262626]">
-                        <h4 className="text-xs text-[#52525b] uppercase tracking-wider mb-2">Market Context</h4>
-                        <MarketContextCard date={dayData.date} />
-                    </div>
 
                     {/* Twitter Logs */}
                     {dayData.twitter_logs && dayData.twitter_logs.length > 0 && (
