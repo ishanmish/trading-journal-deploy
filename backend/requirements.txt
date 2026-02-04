@@ -9,3 +9,4 @@ numpy
 gunicorn
 psycopg2-binary
 python-multipart
+yfinance
