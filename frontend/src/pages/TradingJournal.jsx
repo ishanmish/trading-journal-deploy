@@ -240,7 +240,19 @@ const TradingJournal = () => {
         setFilters(prev => ({ ...prev, startDate, endDate }));
     };
 
+
     const formatINR = (val) => val ? val.toLocaleString('en-IN', { maximumFractionDigits: 0 }) : '0';
+
+    if (loading) {
+        return (
+            <div className="min-h-screen bg-[#050505] font-sans text-[#ededed] flex items-center justify-center">
+                <div className="flex flex-col items-center gap-4">
+                    <div className="w-16 h-16 border-4 border-[#262626] border-t-[#eab308] rounded-full animate-spin"></div>
+                    <p className="text-[#a1a1aa] text-sm">Loading your trading journal...</p>
+                </div>
+            </div>
+        );
+    }
 
     return (
         <div className="min-h-screen bg-[#050505] font-sans text-[#ededed] p-8 max-w-[1600px] mx-auto">
