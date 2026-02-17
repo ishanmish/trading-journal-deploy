@@ -1,0 +1,42 @@
+{
+    "statusCode": 200,
+    "error": null,
+    "success": {
+        "response": {
+            "dailyRealisedPnLHeatmap": {
+                "2026-02-03": {
+                    "grossPnl": 76407.50,
+                    "netPnl": 72731.62,
+                    "charges": 1235.88,
+                    "brokerage": 2440.00,
+                    "totalOrders": 121
+                }
+            },
+            "totalGrossPnl": 76407.50,
+            "totalRealisedPnl": 72731.62,
+            "fromDate": "2025-03-01",
+            "toDate": "2026-02-04",
+            "mostProfitableDay": "2026-02-03",
+            "avgProfit": 72731.62,
+            "maxProfit": 72731.62,
+            "mostLosingDay": null,
+            "avgLoss": 0,
+            "maxLoss": 0.00,
+            "currentStreakDays": 1,
+            "currentStreakStart": "2026-02-03",
+            "currentStreakEnd": "2026-02-03",
+            "longestWinningStreakDays": 1,
+            "longestWinningStreakStart": "2026-02-03",
+            "longestWinningStreakEnd": "2026-02-03",
+            "longestLosingStreakDays": 0,
+            "longestLosingStreakStart": null,
+            "longestLosingStreakEnd": null,
+            "totalTradedDays": 1,
+            "totalTradingDays": 241,
+            "totalProfitableDays": 1,
+            "totalLosingDays": 0,
+            "totalTrades": 121,
+            "avgTrades": 121
+        }
+    }
+}

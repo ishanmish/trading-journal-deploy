@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #050505;
+  --bg-secondary: #0a0a0a;
+  --bg-card: #0f0f0f;
+  --text-primary: #ededed;
+  --text-secondary: #a1a1aa;
+  --accent-primary: #eab308;
+  /* Gold/Yellow from reference (logo) */
+  --accent-profit: #4ade80;
+  --accent-loss: #f87171;
+  --border-color: #262626;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Inter', sans-serif;
+  /* Cleaner font if available, or default sans */
+}
+
+/* Custom Scrollbar to match dark theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

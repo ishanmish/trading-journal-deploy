@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+requests
+python-dotenv
+pandas
+numpy
+gunicorn
+psycopg2-binary
+python-multipart
+kiteconnect
+growwapi
+pyotp

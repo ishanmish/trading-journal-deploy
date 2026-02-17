@@ -1,0 +1,661 @@
+{
+    "statusCode": 200,
+    "error": null,
+    "success": {
+        "response": {
+            "dailyRealisedPnLHeatmap": {
+                "2025-09-05": {
+                    "grossPnl": -2872.50,
+                    "netPnl": -3097.64,
+                    "charges": 65.14,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-09-09": {
+                    "grossPnl": 2512.50,
+                    "netPnl": 2330.26,
+                    "charges": 102.24,
+                    "brokerage": 80.00,
+                    "totalOrders": 4
+                },
+                "2025-09-10": {
+                    "grossPnl": 2086.00,
+                    "netPnl": 1764.67,
+                    "charges": 121.33,
+                    "brokerage": 200.00,
+                    "totalOrders": 10
+                },
+                "2025-09-11": {
+                    "grossPnl": 7320.00,
+                    "netPnl": 6870.29,
+                    "charges": 129.71,
+                    "brokerage": 320.00,
+                    "totalOrders": 16
+                },
+                "2025-09-12": {
+                    "grossPnl": 45.00,
+                    "netPnl": -162.26,
+                    "charges": 87.26,
+                    "brokerage": 120.00,
+                    "totalOrders": 6
+                },
+                "2025-09-15": {
+                    "grossPnl": 6007.50,
+                    "netPnl": 5740.12,
+                    "charges": 107.38,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-09-16": {
+                    "grossPnl": 2643.75,
+                    "netPnl": 2424.25,
+                    "charges": 59.50,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-09-18": {
+                    "grossPnl": 19093.00,
+                    "netPnl": 18514.77,
+                    "charges": 218.23,
+                    "brokerage": 360.00,
+                    "totalOrders": 18
+                },
+                "2025-09-22": {
+                    "grossPnl": 17212.50,
+                    "netPnl": 16320.95,
+                    "charges": 451.55,
+                    "brokerage": 440.00,
+                    "totalOrders": 22
+                },
+                "2025-09-23": {
+                    "grossPnl": -1068.75,
+                    "netPnl": -1794.37,
+                    "charges": 325.62,
+                    "brokerage": 400.00,
+                    "totalOrders": 20
+                },
+                "2025-09-24": {
+                    "grossPnl": -17925.50,
+                    "netPnl": -18996.02,
+                    "charges": 670.52,
+                    "brokerage": 400.00,
+                    "totalOrders": 20
+                },
+                "2025-09-25": {
+                    "grossPnl": -28783.00,
+                    "netPnl": -30122.98,
+                    "charges": 539.98,
+                    "brokerage": 800.00,
+                    "totalOrders": 40
+                },
+                "2025-09-29": {
+                    "grossPnl": 7346.25,
+                    "netPnl": 6665.37,
+                    "charges": 480.88,
+                    "brokerage": 200.00,
+                    "totalOrders": 10
+                },
+                "2025-09-30": {
+                    "grossPnl": -14043.75,
+                    "netPnl": -14736.09,
+                    "charges": 372.34,
+                    "brokerage": 320.00,
+                    "totalOrders": 16
+                },
+                "2025-10-01": {
+                    "grossPnl": 28084.00,
+                    "netPnl": 27018.22,
+                    "charges": 505.78,
+                    "brokerage": 560.00,
+                    "totalOrders": 28
+                },
+                "2025-10-03": {
+                    "grossPnl": 14685.00,
+                    "netPnl": 13784.58,
+                    "charges": 700.42,
+                    "brokerage": 200.00,
+                    "totalOrders": 10
+                },
+                "2025-10-06": {
+                    "grossPnl": 43417.50,
+                    "netPnl": 43076.25,
+                    "charges": 301.25,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-07": {
+                    "grossPnl": 52356.50,
+                    "netPnl": 51946.47,
+                    "charges": 370.03,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-08": {
+                    "grossPnl": -22792.00,
+                    "netPnl": -23280.96,
+                    "charges": 448.96,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-10": {
+                    "grossPnl": -184061.50,
+                    "netPnl": -184539.81,
+                    "charges": 438.31,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-15": {
+                    "grossPnl": -39530.75,
+                    "netPnl": -39951.04,
+                    "charges": 380.29,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-16": {
+                    "grossPnl": -76125.00,
+                    "netPnl": -76580.49,
+                    "charges": 375.49,
+                    "brokerage": 80.00,
+                    "totalOrders": 4
+                },
+                "2025-10-17": {
+                    "grossPnl": -47500.25,
+                    "netPnl": -47668.17,
+                    "charges": 127.92,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-20": {
+                    "grossPnl": 188324.50,
+                    "netPnl": 188075.40,
+                    "charges": 169.10,
+                    "brokerage": 80.00,
+                    "totalOrders": 4
+                },
+                "2025-10-21": {
+                    "grossPnl": 24008.25,
+                    "netPnl": 23896.97,
+                    "charges": 71.28,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-10-23": {
+                    "grossPnl": -4504.25,
+                    "netPnl": -6525.32,
+                    "charges": 901.07,
+                    "brokerage": 1120.00,
+                    "totalOrders": 56
+                },
+                "2025-10-24": {
+                    "grossPnl": 5895.00,
+                    "netPnl": 3620.70,
+                    "charges": 1634.30,
+                    "brokerage": 640.00,
+                    "totalOrders": 32
+                },
+                "2025-10-27": {
+                    "grossPnl": 15298.50,
+                    "netPnl": 14383.83,
+                    "charges": 554.67,
+                    "brokerage": 360.00,
+                    "totalOrders": 18
+                },
+                "2025-10-28": {
+                    "grossPnl": 59688.75,
+                    "netPnl": 58380.54,
+                    "charges": 628.21,
+                    "brokerage": 680.00,
+                    "totalOrders": 34
+                },
+                "2025-10-29": {
+                    "grossPnl": -16657.00,
+                    "netPnl": -19506.15,
+                    "charges": 1689.15,
+                    "brokerage": 1160.00,
+                    "totalOrders": 58
+                },
+                "2025-10-30": {
+                    "grossPnl": 21870.00,
+                    "netPnl": 19023.75,
+                    "charges": 1326.25,
+                    "brokerage": 1520.00,
+                    "totalOrders": 76
+                },
+                "2025-10-31": {
+                    "grossPnl": 55616.25,
+                    "netPnl": 54807.60,
+                    "charges": 568.65,
+                    "brokerage": 240.00,
+                    "totalOrders": 12
+                },
+                "2025-11-04": {
+                    "grossPnl": 54221.25,
+                    "netPnl": 53669.11,
+                    "charges": 232.14,
+                    "brokerage": 320.00,
+                    "totalOrders": 16
+                },
+                "2025-11-06": {
+                    "grossPnl": 9427.00,
+                    "netPnl": 6038.35,
+                    "charges": 1628.65,
+                    "brokerage": 1760.00,
+                    "totalOrders": 88
+                },
+                "2025-11-07": {
+                    "grossPnl": -33588.75,
+                    "netPnl": -34364.84,
+                    "charges": 616.09,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-11-10": {
+                    "grossPnl": -438.00,
+                    "netPnl": -1284.22,
+                    "charges": 686.22,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-11-11": {
+                    "grossPnl": 57033.75,
+                    "netPnl": 55710.24,
+                    "charges": 603.51,
+                    "brokerage": 720.00,
+                    "totalOrders": 36
+                },
+                "2025-11-12": {
+                    "grossPnl": 14427.00,
+                    "netPnl": 13615.93,
+                    "charges": 571.07,
+                    "brokerage": 240.00,
+                    "totalOrders": 12
+                },
+                "2025-11-13": {
+                    "grossPnl": -3818.00,
+                    "netPnl": -7423.12,
+                    "charges": 1505.12,
+                    "brokerage": 2100.00,
+                    "totalOrders": 105
+                },
+                "2025-11-14": {
+                    "grossPnl": -17951.25,
+                    "netPnl": -19785.21,
+                    "charges": 1473.96,
+                    "brokerage": 360.00,
+                    "totalOrders": 18
+                },
+                "2025-11-17": {
+                    "grossPnl": 5943.75,
+                    "netPnl": 4537.24,
+                    "charges": 926.51,
+                    "brokerage": 480.00,
+                    "totalOrders": 24
+                },
+                "2025-11-18": {
+                    "grossPnl": -1965.00,
+                    "netPnl": -4047.55,
+                    "charges": 1282.55,
+                    "brokerage": 800.00,
+                    "totalOrders": 40
+                },
+                "2025-11-19": {
+                    "grossPnl": 5908.00,
+                    "netPnl": 4987.99,
+                    "charges": 640.01,
+                    "brokerage": 280.00,
+                    "totalOrders": 14
+                },
+                "2025-11-20": {
+                    "grossPnl": -10045.00,
+                    "netPnl": -12126.91,
+                    "charges": 1001.91,
+                    "brokerage": 1080.00,
+                    "totalOrders": 54
+                },
+                "2025-11-21": {
+                    "grossPnl": -3146.25,
+                    "netPnl": -4370.54,
+                    "charges": 984.29,
+                    "brokerage": 240.00,
+                    "totalOrders": 12
+                },
+                "2025-11-24": {
+                    "grossPnl": -7635.50,
+                    "netPnl": -9027.67,
+                    "charges": 872.17,
+                    "brokerage": 520.00,
+                    "totalOrders": 26
+                },
+                "2025-11-25": {
+                    "grossPnl": 2302.50,
+                    "netPnl": 705.69,
+                    "charges": 796.81,
+                    "brokerage": 800.00,
+                    "totalOrders": 40
+                },
+                "2025-11-27": {
+                    "grossPnl": -32544.00,
+                    "netPnl": -37028.57,
+                    "charges": 1964.57,
+                    "brokerage": 2520.00,
+                    "totalOrders": 126
+                },
+                "2025-11-28": {
+                    "grossPnl": -7698.75,
+                    "netPnl": -8332.26,
+                    "charges": 453.51,
+                    "brokerage": 180.00,
+                    "totalOrders": 9
+                },
+                "2025-12-01": {
+                    "grossPnl": 1024.75,
+                    "netPnl": 718.38,
+                    "charges": 126.37,
+                    "brokerage": 180.00,
+                    "totalOrders": 9
+                },
+                "2025-12-02": {
+                    "grossPnl": 52605.50,
+                    "netPnl": 49866.69,
+                    "charges": 1378.81,
+                    "brokerage": 1360.00,
+                    "totalOrders": 68
+                },
+                "2025-12-03": {
+                    "grossPnl": -2823.00,
+                    "netPnl": -3750.85,
+                    "charges": 527.85,
+                    "brokerage": 400.00,
+                    "totalOrders": 20
+                },
+                "2025-12-04": {
+                    "grossPnl": 37347.00,
+                    "netPnl": 34695.59,
+                    "charges": 771.41,
+                    "brokerage": 1880.00,
+                    "totalOrders": 94
+                },
+                "2025-12-05": {
+                    "grossPnl": -24037.50,
+                    "netPnl": -24596.38,
+                    "charges": 438.88,
+                    "brokerage": 120.00,
+                    "totalOrders": 6
+                },
+                "2025-12-08": {
+                    "grossPnl": 37057.50,
+                    "netPnl": 36826.47,
+                    "charges": 171.03,
+                    "brokerage": 60.00,
+                    "totalOrders": 3
+                },
+                "2025-12-09": {
+                    "grossPnl": -6232.50,
+                    "netPnl": -10732.64,
+                    "charges": 2640.14,
+                    "brokerage": 1860.00,
+                    "totalOrders": 93
+                },
+                "2025-12-10": {
+                    "grossPnl": -13930.00,
+                    "netPnl": -14278.31,
+                    "charges": 188.31,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2025-12-11": {
+                    "grossPnl": 9220.00,
+                    "netPnl": 4393.60,
+                    "charges": 1626.40,
+                    "brokerage": 3200.00,
+                    "totalOrders": 160
+                },
+                "2025-12-12": {
+                    "grossPnl": -40151.25,
+                    "netPnl": -40477.21,
+                    "charges": 265.96,
+                    "brokerage": 60.00,
+                    "totalOrders": 3
+                },
+                "2025-12-15": {
+                    "grossPnl": 4507.50,
+                    "netPnl": 4248.07,
+                    "charges": 199.43,
+                    "brokerage": 60.00,
+                    "totalOrders": 3
+                },
+                "2025-12-16": {
+                    "grossPnl": 61113.75,
+                    "netPnl": 58168.14,
+                    "charges": 1705.61,
+                    "brokerage": 1240.00,
+                    "totalOrders": 62
+                },
+                "2025-12-17": {
+                    "grossPnl": 0.00,
+                    "netPnl": -170.43,
+                    "charges": 110.43,
+                    "brokerage": 60.00,
+                    "totalOrders": 3
+                },
+                "2025-12-18": {
+                    "grossPnl": -9083.00,
+                    "netPnl": -11110.08,
+                    "charges": 627.08,
+                    "brokerage": 1400.00,
+                    "totalOrders": 70
+                },
+                "2025-12-19": {
+                    "grossPnl": 0.00,
+                    "netPnl": -225.38,
+                    "charges": 185.38,
+                    "brokerage": 40.00,
+                    "totalOrders": 2
+                },
+                "2025-12-22": {
+                    "grossPnl": -28222.50,
+                    "netPnl": -28563.67,
+                    "charges": 201.17,
+                    "brokerage": 140.00,
+                    "totalOrders": 7
+                },
+                "2025-12-23": {
+                    "grossPnl": 75645.00,
+                    "netPnl": 74121.25,
+                    "charges": 403.75,
+                    "brokerage": 1120.00,
+                    "totalOrders": 56
+                },
+                "2025-12-24": {
+                    "grossPnl": 12373.00,
+                    "netPnl": 10718.51,
+                    "charges": 574.49,
+                    "brokerage": 1080.00,
+                    "totalOrders": 54
+                },
+                "2025-12-26": {
+                    "grossPnl": -17422.50,
+                    "netPnl": -17908.73,
+                    "charges": 346.23,
+                    "brokerage": 140.00,
+                    "totalOrders": 7
+                },
+                "2025-12-29": {
+                    "grossPnl": 41152.50,
+                    "netPnl": 40825.04,
+                    "charges": 187.46,
+                    "brokerage": 140.00,
+                    "totalOrders": 7
+                },
+                "2025-12-30": {
+                    "grossPnl": 20036.25,
+                    "netPnl": 18495.73,
+                    "charges": 580.52,
+                    "brokerage": 960.00,
+                    "totalOrders": 48
+                },
+                "2025-12-31": {
+                    "grossPnl": -3920.00,
+                    "netPnl": -4082.11,
+                    "charges": 82.11,
+                    "brokerage": 80.00,
+                    "totalOrders": 4
+                },
+                "2026-01-01": {
+                    "grossPnl": 17681.00,
+                    "netPnl": 16859.85,
+                    "charges": 261.15,
+                    "brokerage": 560.00,
+                    "totalOrders": 28
+                },
+                "2026-01-02": {
+                    "grossPnl": -32526.00,
+                    "netPnl": -32797.37,
+                    "charges": 211.37,
+                    "brokerage": 60.00,
+                    "totalOrders": 3
+                },
+                "2026-01-05": {
+                    "grossPnl": 8313.50,
+                    "netPnl": 8025.32,
+                    "charges": 148.18,
+                    "brokerage": 140.00,
+                    "totalOrders": 7
+                },
+                "2026-01-06": {
+                    "grossPnl": 22324.25,
+                    "netPnl": 20741.18,
+                    "charges": 423.07,
+                    "brokerage": 1160.00,
+                    "totalOrders": 58
+                },
+                "2026-01-07": {
+                    "grossPnl": -5270.00,
+                    "netPnl": -5540.68,
+                    "charges": 150.68,
+                    "brokerage": 120.00,
+                    "totalOrders": 6
+                },
+                "2026-01-08": {
+                    "grossPnl": 47096.00,
+                    "netPnl": 44353.01,
+                    "charges": 982.99,
+                    "brokerage": 1760.00,
+                    "totalOrders": 88
+                },
+                "2026-01-09": {
+                    "grossPnl": 7552.25,
+                    "netPnl": 7013.59,
+                    "charges": 378.66,
+                    "brokerage": 160.00,
+                    "totalOrders": 8
+                },
+                "2026-01-12": {
+                    "grossPnl": -19377.25,
+                    "netPnl": -20485.31,
+                    "charges": 748.06,
+                    "brokerage": 360.00,
+                    "totalOrders": 18
+                },
+                "2026-01-13": {
+                    "grossPnl": -8170.50,
+                    "netPnl": -12173.57,
+                    "charges": 1643.07,
+                    "brokerage": 2360.00,
+                    "totalOrders": 118
+                },
+                "2026-01-14": {
+                    "grossPnl": -68892.00,
+                    "netPnl": -72690.66,
+                    "charges": 1638.66,
+                    "brokerage": 2160.00,
+                    "totalOrders": 108
+                },
+                "2026-01-16": {
+                    "grossPnl": -55750.50,
+                    "netPnl": -56303.95,
+                    "charges": 433.45,
+                    "brokerage": 120.00,
+                    "totalOrders": 6
+                },
+                "2026-01-19": {
+                    "grossPnl": -31265.00,
+                    "netPnl": -31956.23,
+                    "charges": 451.23,
+                    "brokerage": 240.00,
+                    "totalOrders": 12
+                },
+                "2026-01-20": {
+                    "grossPnl": 51727.00,
+                    "netPnl": 49987.30,
+                    "charges": 679.70,
+                    "brokerage": 1060.00,
+                    "totalOrders": 52
+                },
+                "2026-01-21": {
+                    "grossPnl": -7389.00,
+                    "netPnl": -7793.63,
+                    "charges": 224.63,
+                    "brokerage": 180.00,
+                    "totalOrders": 9
+                },
+                "2026-01-22": {
+                    "grossPnl": 28952.50,
+                    "netPnl": 24816.20,
+                    "charges": 1756.30,
+                    "brokerage": 2380.00,
+                    "totalOrders": 119
+                },
+                "2026-01-23": {
+                    "grossPnl": 1950.00,
+                    "netPnl": 1719.70,
+                    "charges": 110.30,
+                    "brokerage": 120.00,
+                    "totalOrders": 6
+                },
+                "2026-01-27": {
+                    "grossPnl": 498.50,
+                    "netPnl": -3359.29,
+                    "charges": 1697.79,
+                    "brokerage": 2160.00,
+                    "totalOrders": 108
+                },
+                "2026-01-28": {
+                    "grossPnl": 11796.25,
+                    "netPnl": 9628.45,
+                    "charges": 1367.80,
+                    "brokerage": 800.00,
+                    "totalOrders": 40
+                },
+                "2026-01-29": {
+                    "grossPnl": -38928.00,
+                    "netPnl": -43630.76,
+                    "charges": 2022.76,
+                    "brokerage": 2680.00,
+                    "totalOrders": 134
+                },
+                "2026-01-30": {
+                    "grossPnl": -29539.75,
+                    "netPnl": -31083.09,
+                    "charges": 1263.34,
+                    "brokerage": 280.00,
+                    "totalOrders": 14
+                },
+                "2026-02-01": {
+                    "grossPnl": -47771.75,
+                    "netPnl": -50613.37,
+                    "charges": 1921.62,
+                    "brokerage": 920.00,
+                    "totalOrders": 46
+                },
+                "2026-02-03": {
+                    "grossPnl": 146168.75,
+                    "netPnl": 141702.54,
+                    "charges": 2026.21,
+                    "brokerage": 2440.00,
+                    "totalOrders": 122
+                }
+            }
+        }
+    }
+}

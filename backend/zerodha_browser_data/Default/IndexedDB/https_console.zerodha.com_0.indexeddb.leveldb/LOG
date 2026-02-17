@@ -1,0 +1,7 @@
+2026/02/13-21:40:07.368 f360a4 Reusing MANIFEST /Users/ishanmishra/Desktop/trading-journal-deploy-main copy/backend/zerodha_browser_data/Default/IndexedDB/https_console.zerodha.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/13-21:40:07.368 f360a4 Recovering log #3
+2026/02/13-21:40:07.369 f360a4 Reusing old log /Users/ishanmishra/Desktop/trading-journal-deploy-main copy/backend/zerodha_browser_data/Default/IndexedDB/https_console.zerodha.com_0.indexeddb.leveldb/000003.log 
+2026/02/14-08:08:05.772 f360a4 Level-0 table #5: started
+2026/02/14-08:08:05.781 f360a4 Level-0 table #5: 5541 bytes OK
+2026/02/14-08:08:05.784 f360a4 Delete type=0 #3
+2026/02/14-08:08:05.785 f360a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
